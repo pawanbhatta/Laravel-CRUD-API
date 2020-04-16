@@ -8,6 +8,5 @@
     cd into the directory
     Run composer install
     Run php artisan key:generate
-    Set up your .env file with the correct data (don't forget API_DOMAIN)
     Run the table migrations php artisan migrate
     Seed the database php artisan db:seed
